@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/hulusfeed/static/js/main.d7ef3f01.chunk.js",
+    "main.js.map": "/hulusfeed/static/js/main.d7ef3f01.chunk.js.map",
+    "runtime-main.js": "/hulusfeed/static/js/runtime-main.c9da7176.js",
+    "runtime-main.js.map": "/hulusfeed/static/js/runtime-main.c9da7176.js.map",
+    "static/css/2.818011ed.chunk.css": "/hulusfeed/static/css/2.818011ed.chunk.css",
+    "static/js/2.f71bca8b.chunk.js": "/hulusfeed/static/js/2.f71bca8b.chunk.js",
+    "static/js/2.f71bca8b.chunk.js.map": "/hulusfeed/static/js/2.f71bca8b.chunk.js.map",
+    "index.html": "/hulusfeed/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/hulusfeed/static/css/2.818011ed.chunk.css.map",
+    "static/js/2.f71bca8b.chunk.js.LICENSE.txt": "/hulusfeed/static/js/2.f71bca8b.chunk.js.LICENSE.txt",
+    "static/media/hulusthul-rem.9881cc4f.png": "/hulusfeed/static/media/hulusthul-rem.9881cc4f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9da7176.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.f71bca8b.chunk.js",
+    "static/js/main.d7ef3f01.chunk.js"
+  ]
+}
